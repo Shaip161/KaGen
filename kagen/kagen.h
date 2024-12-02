@@ -25,7 +25,7 @@
 namespace kagen {
 std::string BuildDescription();
 }
-typedef uint64_t NodeID;
+typedef unsigned int NodeID;
 #endif
 
 //
